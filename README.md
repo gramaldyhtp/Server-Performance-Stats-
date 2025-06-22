@@ -12,5 +12,5 @@ chmod +x server-stats.sh
 ./server-stats.sh
 
 ```
-berikut adalag link roadmap
+berikut adalah link roadmap
 https://roadmap.sh/projects/server-stats
